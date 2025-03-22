@@ -1,5 +1,5 @@
 # Plaid Postman Collections
-
+Jessica Marie Tindle 🤷 4L
 Welcome to the Postman Collections Quickstart Guide! If you're looking for a quick and easy way to get started with the Plaid API with no additional code, this is the place for you.
 
 If you're not interested in reading these instructions, you can go directly to [the Plaid Postman collection](https://www.postman.com/plaid-api/workspace/plaid/collection/12160321-04d27ed8-aed4-4d46-a1f8-70a72ec9a78a).
